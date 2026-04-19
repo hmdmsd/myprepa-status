@@ -6,10 +6,6 @@ sites:
     url: https://myprepa.tn
   - name: MyPrepa API
     url: https://myprepa.tn/api/v1/health
-  - name: API (api subdomain)
-    url: https://api.myprepa.tn/v1/health
-  - name: Admin
-    url: https://admin.myprepa.tn
   - name: Staging Web
     url: https://staging.myprepa.tn
   - name: Staging API
@@ -18,6 +14,12 @@ sites:
     url: https://ops.myprepa.tn
   - name: CDN (R2)
     url: https://cdn.myprepa.tn
+    expectedStatusCodes:
+      - 200
+      - 301
+      - 302
+      - 403
+      - 404
 
 status-website:
   cname: status.myprepa.tn
