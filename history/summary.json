@@ -4,18 +4,20 @@
     "url": "https://myprepa.tn",
     "icon": "https://icons.duckduckgo.com/ip3/myprepa.tn.ico",
     "slug": "my-prepa-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1781,
-    "timeDay": 1080,
-    "timeWeek": 1781,
-    "timeMonth": 1781,
-    "timeYear": 1781,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1634,
+    "timeDay": 915,
+    "timeWeek": 1634,
+    "timeMonth": 1634,
+    "timeYear": 1634,
+    "dailyMinutesDown": {
+      "2026-04-23": 2
+    }
   },
   {
     "name": "MyPrepa API",
@@ -40,9 +42,9 @@
     "url": "https://staging.myprepa.tn",
     "icon": "https://icons.duckduckgo.com/ip3/staging.myprepa.tn.ico",
     "slug": "staging-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1832,
     "timeMonth": 1832,
     "timeYear": 1832,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-23": 0
+    }
   },
   {
     "name": "Staging API",
@@ -77,11 +81,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.myprepa.tn.ico",
     "slug": "ops",
     "status": "up",
-    "uptime": "91.50%",
+    "uptime": "91.52%",
     "uptimeDay": "95.98%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "91.50%",
-    "uptimeYear": "91.50%",
+    "uptimeWeek": "91.52%",
+    "uptimeMonth": "91.52%",
+    "uptimeYear": "91.52%",
     "time": 643,
     "timeDay": 1081,
     "timeWeek": 643,
