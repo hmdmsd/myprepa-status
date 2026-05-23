@@ -49,18 +49,20 @@
     "url": "https://admin.myprepa.tn",
     "icon": "https://icons.duckduckgo.com/ip3/admin.myprepa.tn.ico",
     "slug": "admin-console",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1016,
-    "timeDay": 1016,
-    "timeWeek": 1016,
-    "timeMonth": 1016,
-    "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 735,
+    "timeDay": 735,
+    "timeWeek": 735,
+    "timeMonth": 735,
+    "timeYear": 735,
+    "dailyMinutesDown": {
+      "2026-05-23": 1
+    }
   },
   {
     "name": "Docs Console",
@@ -68,18 +70,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.myprepa.tn.ico",
     "slug": "docs-console",
     "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
+    "uptime": "95.67%",
+    "uptimeDay": "95.67%",
+    "uptimeWeek": "95.67%",
+    "uptimeMonth": "95.67%",
+    "uptimeYear": "95.67%",
     "time": 1153,
     "timeDay": 1153,
     "timeWeek": 1153,
     "timeMonth": 1153,
     "timeYear": 1153,
     "dailyMinutesDown": {
-      "2026-05-23": 5
+      "2026-05-23": 18
     }
   },
   {
@@ -88,17 +90,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/ops.myprepa.tn.ico",
     "slug": "ops-console",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "96.82%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "96.82%",
+    "uptimeYear": "96.82%",
     "time": 1135,
     "timeDay": 1135,
     "timeWeek": 1135,
     "timeMonth": 1135,
     "timeYear": 1135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-23": 13
+    }
   },
   {
     "name": "CDN (R2)",
