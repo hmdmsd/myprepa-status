@@ -5,13 +5,22 @@ sites:
   - name: MyPrepa Web
     url: https://myprepa.tn
   - name: MyPrepa API
-    url: https://myprepa.tn/api/v1/health
-  - name: Staging Web
-    url: https://staging.myprepa.tn
-  - name: Staging API
-    url: https://staging.myprepa.tn/api/v1/health
-  - name: Ops
+    url: https://myprepa.tn/api/health
+  - name: Admin Console
+    url: https://admin.myprepa.tn
+    expectedStatusCodes:
+      - 200
+      - 307
+  - name: Docs Console
+    url: https://docs.myprepa.tn
+    expectedStatusCodes:
+      - 200
+      - 307
+  - name: Ops Console
     url: https://ops.myprepa.tn
+    expectedStatusCodes:
+      - 200
+      - 307
   - name: CDN (R2)
     url: https://cdn.myprepa.tn
     expectedStatusCodes:
@@ -26,7 +35,7 @@ status-website:
   logoUrl: https://myprepa.tn/favicon.svg
   name: MyPrepa Status
   introTitle: "**MyPrepa.tn** uptime + incident history."
-  introMessage: Live status of the MyPrepa platform — web, API, admin, CDN, and ops. Powered by GitHub Actions, no extra infra. Incidents and historical response times are public.
+  introMessage: Live status of the MyPrepa platform — web, API, admin, docs, ops, CDN. Powered by GitHub Actions, no extra infra. Incidents and historical response times are public.
   navbar:
     - title: Status
       href: /
