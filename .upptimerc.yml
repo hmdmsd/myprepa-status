@@ -44,8 +44,6 @@ status-website:
     - title: GitHub
       href: https://github.com/hmdmsd/myprepa-status
 
-assignees:
-  - hmdmsd
 
 i18n:
   activeIncidents: Incidents en cours
