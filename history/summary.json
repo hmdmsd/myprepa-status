@@ -69,19 +69,19 @@
     "url": "https://docs.myprepa.tn",
     "icon": "https://icons.duckduckgo.com/ip3/docs.myprepa.tn.ico",
     "slug": "docs-console",
-    "status": "up",
-    "uptime": "80.76%",
-    "uptimeDay": "66.51%",
-    "uptimeWeek": "71.82%",
-    "uptimeMonth": "80.76%",
-    "uptimeYear": "80.76%",
+    "status": "down",
+    "uptime": "80.90%",
+    "uptimeDay": "66.17%",
+    "uptimeWeek": "71.77%",
+    "uptimeMonth": "80.90%",
+    "uptimeYear": "80.90%",
     "time": 1060,
     "timeDay": 1073,
     "timeWeek": 1034,
     "timeMonth": 1060,
     "timeYear": 1060,
     "dailyMinutesDown": {
-      "2026-06-17": 463,
+      "2026-06-17": 468,
       "2026-06-16": 348,
       "2026-06-15": 387,
       "2026-06-14": 527,
@@ -105,7 +105,7 @@
       "2026-05-26": 11,
       "2026-05-25": 51,
       "2026-05-24": 81,
-      "2026-05-23": 60
+      "2026-05-23": 19
     }
   },
   {
@@ -113,12 +113,12 @@
     "url": "https://ops.myprepa.tn",
     "icon": "https://icons.duckduckgo.com/ip3/ops.myprepa.tn.ico",
     "slug": "ops-console",
-    "status": "up",
-    "uptime": "82.08%",
-    "uptimeDay": "67.85%",
+    "status": "down",
+    "uptime": "82.22%",
+    "uptimeDay": "67.84%",
     "uptimeWeek": "73.54%",
-    "uptimeMonth": "82.08%",
-    "uptimeYear": "82.08%",
+    "uptimeMonth": "82.22%",
+    "uptimeYear": "82.22%",
     "time": 1099,
     "timeDay": 1034,
     "timeWeek": 1164,
@@ -149,7 +149,7 @@
       "2026-05-26": 6,
       "2026-05-25": 41,
       "2026-05-24": 71,
-      "2026-05-23": 50
+      "2026-05-23": 14
     }
   },
   {
